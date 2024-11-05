@@ -1,4 +1,5 @@
 # Kozlov Sergey CV
+![avatar](/img/avatar.jpg "Фото")
 
 ## Contact information
 **telegram** - [kozlov_s](https://t.me/kozlov_s)
